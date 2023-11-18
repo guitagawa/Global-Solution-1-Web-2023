@@ -1,0 +1,39 @@
+.sessao2 p{
+    text-align: center;
+    font-size: 30px;
+    width: 800px;
+}
+
+.sessao2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
+}
+
+
+.section{
+    display:flex;
+    flex-direction: column;
+    gap: 200px;
+    justify-content: center;
+    align-items: center;
+    border-right: solid 1px cyan;
+    padding: 80px;
+    
+}
+
+.section p{
+    color: white;
+}
+
+.sessao2 img{
+    width: 800px;
+    border: 2px solid cyan;
+}
+
+.section a{
+    color: black;
+    
+}
